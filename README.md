@@ -17,7 +17,7 @@ The library provides a variety of functions to manipulate complex numbers, ensur
 - `evaluate_polynomial(coefficients: [Field; 10], x: Complex)`: Evaluates a polynomial at a given complex number.
 
 ## Importance for Zero-Knowledge Proofs
-In the realm of ZKPs, the `complexnr` library plays a crucial role. Complex number calculations are essential in various cryptographic protocols and algorithms. This library ensures that these calculations are performed with the requisite precision and efficiency, which is paramount in maintaining the integrity and security of ZKPs.
+Complex number calculations are essential in various cryptographic protocols and algorithms. This library ensures that these calculations are performed with the requisite precision and efficiencyso as to able to maintain the integrity and security of ZKPs.
 
 ## Installation
 To use `complexnr` in your Noir project, include it in your `Nargo.toml` and import it in your Noir files.
