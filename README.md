@@ -1,3 +1,4 @@
+![Complex Numbers Image](complexnr.png)
 ## Introduction
 `complexnr` is a library for handling complex numbers in Noir. This library offers a comprehensive suite of operations for complex numbers.
 
