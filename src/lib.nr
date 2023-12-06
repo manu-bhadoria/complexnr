@@ -1,5 +1,3 @@
-use dep::std;
-
 struct Complex {
     real: Field,
     imaginary: Field,
